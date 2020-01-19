@@ -1,0 +1,4 @@
+#Fri Jan 17 13:15:40 COT 2020
+base.0=C\:\\Users\\JonathanWladimir\\Documents\\Universidad Politecnica Salesiana\\Periodo 55\\Ingenieria de Software\\ruta\\proy\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
